@@ -15,8 +15,8 @@ A brief summary of the topic
 ---
 
 Key Points
-Point 1:
-Point 2:
+Point 1: Hello
+Point 2: new item
 Point 3:
 
 ---
